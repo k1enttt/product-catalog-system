@@ -1,0 +1,10 @@
+{"name": "Red", "hex": "#FF0000", "value": "red"}
+{"name": "Green", "hex": "#00FF00", "value": "green"}
+{"name": "Blue", "hex": "#0000FF", "value": "blue"}
+{"name": "Yellow", "hex": "#FFFF00", "value": "yellow"}
+{"name": "Cyan", "hex": "#00FFFF", "value": "cyan"}
+{"name": "Magenta", "hex": "#FF00FF", "value": "magenta"}
+{"name": "Orange", "hex": "#FFA500", "value": "orange"}
+{"name": "Purple", "hex": "#800080", "value": "purple"}
+{"name": "Brown", "hex": "#A52A2A", "value": "brown"}
+{"name": "Pink", "hex": "#FFC0CB", "value": "pink"}

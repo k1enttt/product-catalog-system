@@ -3,8 +3,6 @@ import Filters from "@/components/Filters";
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import ProductGrid from "@/components/ProductsGrid";
-// import { api } from "@/convex/_generated/api";
-// import { useQuery } from "convex/react";
 
 export default function Home() {
   return (

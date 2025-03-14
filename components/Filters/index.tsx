@@ -26,8 +26,7 @@ export type Product = {
 const Filters = () => {
   const colors = useQuery(api.colors.get);
   const sizes = useQuery(api.sizes.get);
-  console.log(JSON.stringify(colors));
-  console.log(JSON.stringify(sizes));
+  
   return (
     <div>
       <div className="flex gap-4 items-center">

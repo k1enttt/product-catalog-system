@@ -1,10 +1,10 @@
-"use client";
+'use server'
 import Filters from "@/components/Filters";
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import ProductGrid from "@/components/ProductsGrid";
 
-export default function Home() {
+export default async function Home() {
   return (
     <div className="font-[family-name:var(--font-public-sans)]">
       <Header />
@@ -14,7 +14,6 @@ export default function Home() {
           <Filters />
         </div>
         <div className="w-3/4">
-          {/* Right content here */}
           <ProductGrid />
         </div>
       </div>

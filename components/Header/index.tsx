@@ -1,5 +1,4 @@
-// import Image from "next/image";
-
+'use client'
 import { useState } from "react";
 
 const Header = () => {

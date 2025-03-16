@@ -13,7 +13,7 @@ const Filters = () => {
   useEffect(() => {
     convex.query(api.colors.get).then(setColors);
     convex.query(api.sizes.get).then(setSizes);
-  }, []);
+  }, [convex]);
 
   return (
     <div>
